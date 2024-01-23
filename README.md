@@ -1,5 +1,5 @@
 # desafio1-dnc
-Este é o projeto base do desafio 1 do módulo base de Tecnologia da Escola DNC.
+<h1>Desafio 1 - Resolução</h2>
 
-link do site disponibilizado: <a href="https://desafio-landingpage-arq-dnc.netlify.app/"> <br>
-link da planilha do registro de informação: <a href="https://shorturl.at/elnBW">
+<p>link do site disponibilizado: <a href="https://desafio-landingpage-arq-dnc.netlify.app/"></p>
+<p>link da planilha de registro de informação: <a href="href=https://shorturl.at/elnBW"></a></p>
